@@ -5,7 +5,7 @@
    - [Project1_expressions_alert](#Project1_expressions_alert)
    - [Project2_functions](#Project2_functions)
    - [Project3_math_operators](#Project3_math_operators)
-   - [Project4_dictionaries](#Project3_dictionaries)
+   - [Project4_dictionaries](#Project4_dictionaries)
 
  ## **Basic JavaScript Projects** 
 
