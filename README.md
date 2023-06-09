@@ -1,13 +1,14 @@
 # JavaScript-Projects
  JavaScript projects from The Tech Academy
  ## **Projects**
- - Basic JavaScript Projects
+ - [Basic JavaScript Projects](## **Basic JavaScript Projects**)
 
- ### **Basic JavaScript Projects** 
- 
- *Project1_expressions_alert:*
+ ## **Basic JavaScript Projects** 
+
+*Project1_expressions_alert:*
 
     This projected eplained various basic programming ideas.  
+
     The following topics were discussed: 
         - Variables
         - Statements
@@ -17,9 +18,10 @@
         - Concatenation
         - Comments
 
- *Project2_functions:*
+*Project2_functions:*
 
     This project explained the basic ideas of functions. 
+
     The following topcs were discussed: 
         - Buttons
         - Function calls
@@ -29,6 +31,7 @@
 *Project3_math_operators:*
 
     This project explained the basic ideas of math operators. 
+
     The following topcs were discussed: 
         - Addition, Subtraction, Multiplication and Division operators
         - Multiple Operators 
