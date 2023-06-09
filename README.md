@@ -2,7 +2,7 @@
  JavaScript projects from The Tech Academy
  ## **Projects**
  - [Basic JavaScript Projects](#Basic-JavaScript-Projects)
-   - [Project1_expression_alert](#Project1_expression_alert)
+   - [Project1_expressions_alert](#Project1_expressions_alert)
    - [Project2_functions](#Project2_functions)
    - [Project3_math_operators](#Project3_math_operators)
 
