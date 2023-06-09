@@ -1,7 +1,7 @@
 # JavaScript-Projects
  JavaScript projects from The Tech Academy
  ## **Projects**
- - [Basic JavaScript Projects](## **Basic JavaScript Projects**)
+ - [Basic JavaScript Projects](#Basic-JavaScript-Projects)
 
  ## **Basic JavaScript Projects** 
 
