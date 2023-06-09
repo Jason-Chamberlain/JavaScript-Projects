@@ -5,10 +5,11 @@
    - [Project1_expressions_alert](#Project1_expressions_alert)
    - [Project2_functions](#Project2_functions)
    - [Project3_math_operators](#Project3_math_operators)
+   - [Project4_dictionaries](#Project3_dictionaries)
 
  ## **Basic JavaScript Projects** 
 
-#### *Project1_expressions_alert*
+#### **Project1_expressions_alert**
 
     This projected eplained various basic programming ideas.  
 
@@ -21,7 +22,7 @@
         - Concatenation
         - Comments
 
-#### *Project2_functions*
+#### **Project2_functions**
 
     This project explained the basic ideas of functions. 
 
@@ -31,7 +32,7 @@
         - Events
         - Event Handlers
 
-#### *Project3_math_operators*
+#### **Project3_math_operators**
 
     This project explained the basic ideas of math operators. 
 
@@ -44,4 +45,10 @@
         - Random Numbers
         - Math Object, Math Constants, Math Methods
 
+#### **Project4_dictionaries**
 
+    This project explained the basic ideas of JavaScript dictionaries. 
+
+    The following topcs were discussed: 
+        - Key Value Pairs (KVP)
+        - delete Operator
