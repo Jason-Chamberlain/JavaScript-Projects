@@ -8,6 +8,7 @@
    - [Project4_dictionaries](#Project4_dictionaries)
    - [Project5_comparisons_type_coercion](#Project5_comparisons_type_coercion)
    - [Project6_ternary_operators_contructors](#Project6_ternary_operators_contructors)
+   - [Project7_scope_time_function](#Project7_scope_time_function)
 
  ## **Basic JavaScript Projects** 
 
@@ -80,4 +81,16 @@
         - Reserved Words
         - Identifiers and Literals
         - Nested Functions
+
+#### **Project7_scope_time_function**
+
+    This project explained the basic concepts of Scope and Conditional Statements.  It also discussed the using the Date Object.
+
+    The following key topics were discussed:
+        - Local and Global Variables
+        - if Statements
+        - else Statements
+        - else if Statements
+        - Date().gethours() Method
+        
         
