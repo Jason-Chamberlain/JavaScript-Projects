@@ -6,6 +6,7 @@
    - [Project2_functions](#Project2_functions)
    - [Project3_math_operators](#Project3_math_operators)
    - [Project4_dictionaries](#Project4_dictionaries)
+   - [Project5_comparisons_type_coercion](#Project5_comparisons_type_coercion)
 
  ## **Basic JavaScript Projects** 
 
@@ -13,7 +14,7 @@
 
     This projected eplained various basic programming ideas.  
 
-    The following topics were discussed: 
+    The following key topics were discussed: 
         - Variables
         - Statements
         - Expressions
@@ -26,7 +27,7 @@
 
     This project explained the basic ideas of functions. 
 
-    The following topcs were discussed: 
+    The following key topics were discussed: 
         - Buttons
         - Function calls
         - Events
@@ -36,7 +37,7 @@
 
     This project explained the basic ideas of math operators. 
 
-    The following topcs were discussed: 
+    The following key topics were discussed: 
         - Addition, Subtraction, Multiplication and Division operators
         - Multiple Operators 
         - Operator Precedence
@@ -49,6 +50,21 @@
 
     This project explained the basic ideas of JavaScript dictionaries. 
 
-    The following topcs were discussed: 
+    The following key topics were discussed: 
         - Key Value Pairs (KVP)
         - delete Operator
+
+#### **Project5_comparisons_type_coercion**
+
+    This project explained the basic concepts of types, type coercion and comparisons.
+
+    The following key topics were discussed:
+        - typeof Operator
+        - Type Coercion
+        - Floating Point, NaN, Infinity, -Infinity
+        - isNaN() Function
+        - Boolean Logic
+        - console.log() Method
+        - Double Equal Signs, Triple Equal Signs
+        - Logical Operators, And Operator, Not Operator
+        
