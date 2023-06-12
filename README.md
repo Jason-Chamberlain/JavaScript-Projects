@@ -71,8 +71,13 @@
 
 #### **Project6_ternary_operators_contructors**
 
-    This project explained the basic concepts of Ternary Operators.
+    This project explained the basic concepts of Ternary Operators, Keywords and Class Constructors.
 
     The following key topics were discussed:
         - ? Operator
+        - this Keyword, new Keyword
+        - Constructors
+        - Reserved Words
+        - Identifiers and Literals
+        - Nested Functions
         
