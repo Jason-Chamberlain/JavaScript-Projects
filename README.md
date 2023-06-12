@@ -84,7 +84,8 @@
 
 #### **Project7_scope_time_function**
 
-    This project explained the basic concepts of Scope and Conditional Statements.  It also discussed the using the Date Object.
+    This project explained the basic concepts of Scope and Conditional Statements.  
+    It also discussed using the Date Object.
 
     The following key topics were discussed:
         - Local and Global Variables
