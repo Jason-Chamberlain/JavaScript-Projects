@@ -16,9 +16,9 @@
 
 #### **Project1_expressions_alert**
 
-    This project covered a range of fundamental programming concepts in JavaScript. Understanding these 
-    key topics is crucial for building a strong foundation in JavaScript programming and developing code 
-    that is readable, interactive, and well-documented. 
+    This project covered a range of fundamental programming concepts in JavaScript. 
+    Understanding these key topics is crucial for building a strong foundation in JavaScript 
+    programming and developing code that is readable, interactive, and well-documented. 
 
     The following key topics were discussed: 
         - Variables
