@@ -16,7 +16,9 @@
 
 #### **Project1_expressions_alert**
 
-    This project covered a range of fundamental programming concepts in JavaScript. Understanding these key topics is crucial for building a strong foundation in JavaScript programming and developing code that is readable, interactive, and well-documented. 
+    This project covered a range of fundamental programming concepts in JavaScript. Understanding these 
+    key topics is crucial for building a strong foundation in JavaScript programming and developing code 
+    that is readable, interactive, and well-documented. 
 
     The following key topics were discussed: 
         - Variables
@@ -29,7 +31,10 @@
 
 #### **Project2_functions**
 
-    This project provided an explanation of the basic ideas of functions in JavaScript, covering their syntax, purpose, and how they are used to encapsulate reusable blocks of code. Understanding the fundamentals of functions is essential for writing modular and organized JavaScript code that can be executed repeatedly for different inputs. 
+    This project provided an explanation of the basic ideas of functions in JavaScript, covering their 
+    syntax, purpose, and how they are used to encapsulate reusable blocks of code. Understanding the 
+    fundamentals of functions is essential for writing modular and organized JavaScript code that can 
+    be executed repeatedly for different inputs. 
 
     The following key topics were discussed: 
         - Buttons
@@ -39,7 +44,7 @@
 
 #### **Project3_math_operators**
 
-     This project introduced the basic concepts of math operators in JavaScript, explaining their syntax and usage for performing mathematical calculations in code. Understanding these concepts and their semantics is essential for manipulating numbers and executing mathematical operations effectively in JavaScript programming.
+     ```This project introduced the basic concepts of math operators in JavaScript, explaining their syntax and usage for performing mathematical calculations in code. Understanding these concepts and their semantics is essential for manipulating numbers and executing mathematical operations effectively in JavaScript programming.```
 
     The following key topics were discussed: 
         - Addition, Subtraction, Multiplication and Division operators
