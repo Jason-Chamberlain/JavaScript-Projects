@@ -7,6 +7,7 @@
    - [Project3_math_operators](#Project3_math_operators)
    - [Project4_dictionaries](#Project4_dictionaries)
    - [Project5_comparisons_type_coercion](#Project5_comparisons_type_coercion)
+   - [Project6_ternary_operators_contructors](#Project6_ternary_operators_contructors)
 
  ## **Basic JavaScript Projects** 
 
@@ -67,4 +68,11 @@
         - console.log() Method
         - Double Equal Signs, Triple Equal Signs
         - Logical Operators, And Operator, Not Operator
+
+#### **Project6_ternary_operators_contructors**
+
+    This project explained the basic concepts of Ternary Operators.
+
+    The following key topics were discussed:
+        - ? Operator
         
