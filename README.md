@@ -10,7 +10,8 @@
    - [Project6_ternary_operators_contructors](#Project6_ternary_operators_contructors)
    - [Project7_scope_time_function](#Project7_scope_time_function)
    - [Project8_string_number_methods](#Project8_string_number_methods)
-   - [Project9_countdown_slideshow](#Project9_countdown_slideshow)
+   - [Project9_countdown_slideshow](#Project9_countdown_slideshow) <- image slideshow using JavaScript, CSS and HTML
+   - [Project10_loops_arrays](#Project10_loops_arrays)
 
 
 ## **Basic JavaScript Projects** 
@@ -141,6 +142,25 @@
     time-limited activities. Additionally, it covered how to build a basic slideshow using HTML, 
     CSS, and JavaScript, which can be used to showcase images or content in an interactive and 
     visually appealing manner on webpages.  
+
+    The following key topics were discussed:
+        - countdown() Function
+
+#### **Project10_loops_arrays**
+
+    This project explored the semantics of loops and arrays in JavaScript, providing an explanation 
+    of their usage and behavior. Understanding the semantics of loops and arrays is crucial for 
+    efficiently iterating over data and manipulating collections in JavaScript programming.
+
+    The following key topics were discussed:
+        - while and for Loops
+        - String length Property
+        - Arrays
+        - const and let Variable Types
+        - return Statement
+        - Objects and Data Structures
+        - this Keyword
+        - break and continue Statements
         
         
         
