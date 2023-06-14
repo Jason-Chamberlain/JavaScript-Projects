@@ -1,6 +1,6 @@
 # JavaScript-Projects
  JavaScript projects from The Tech Academy
- ## **Projects**
+## **Projects**
  - [Basic JavaScript Projects](#Basic-JavaScript-Projects)
    - [Project1_expressions_alert](#Project1_expressions_alert)
    - [Project2_functions](#Project2_functions)
@@ -10,9 +10,10 @@
    - [Project6_ternary_operators_contructors](#Project6_ternary_operators_contructors)
    - [Project7_scope_time_function](#Project7_scope_time_function)
    - [Project8_string_number_methods](#Project8_string_number_methods)
+   - [Project9_countdown_slideshow](#Project9_countdown_slideshow)
 
 
- ## **Basic JavaScript Projects** 
+## **Basic JavaScript Projects** 
 
 #### **Project1_expressions_alert**
 
@@ -132,6 +133,10 @@
         - toPrecision() Method
         - toFixed() Method
         - valueOf() Method
+
+#### **Project9_countdown_slideshow**
+
+    This project discussed the use of the countdown() function in JavaScript, enabling developers to implement countdown timers for various applications, such as event countdowns or time-limited activities. Additionally, it covered how to build a basic slideshow using HTML, CSS, and JavaScript, which can be used to showcase images or content in an interactive and visually appealing manner on webpages.  
         
         
         
